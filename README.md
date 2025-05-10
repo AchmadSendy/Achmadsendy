@@ -49,4 +49,14 @@ Saya aktif di  **organisasi Infinite UNY** (bidang IT). Saya juga membuat konten
 
 - **VIPALS** – Kolektor brondolan sawit berbasis IoT
 - **IsyaratPro** – Sarung tangan konversi bahasa isyarat ke suara
-- *(Tambahkan proyek lainnya di sini jika ada)*
+- **WebsiteSendySkot** - Website Pembelajaran online
+
+
+
+
+### 🐍 Main Ular-Ularan (Snake Game)
+
+Klik gambar di bawah untuk mencoba game klasik Snake buatan saya sendiri 👇
+
+[![Main Snake Game](https://user-images.githubusercontent.com/yourusername/screenshot-snake.png)](https://sendyskot.github.io/snake-game/)
+
