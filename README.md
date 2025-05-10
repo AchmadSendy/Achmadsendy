@@ -55,8 +55,10 @@ Saya aktif di  **organisasi Infinite UNY** (bidang IT). Saya juga membuat konten
 
 
 ### 🐍 Main Ular-Ularan (Snake Game)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchmadSendy/AchmadSendy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AchmadSendy/AchmadSendy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AchmadSendy/AchmadSendy/output/pacman-contribution-graph.svg">
+</picture>
 
-Klik gambar di bawah untuk mencoba game klasik Snake buatan saya sendiri 👇
-
-[![Main Snake Game](https://user-images.githubusercontent.com/yourusername/screenshot-snake.png)](https://sendyskot.github.io/snake-game/)
 
