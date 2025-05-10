@@ -32,7 +32,7 @@ Saya aktif di  **organisasi Infinite UNY** (bidang IT). Saya juga membuat konten
 
 ### 🔥 Statistik GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sendyskot&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=tokyonight)
 
 ---
 
