@@ -32,18 +32,10 @@ I'm active as **Technical Lead at INFINITE UNY** (IT Division) and share tech & 
 **🔧 IoT & Automation:**
 - Microcontroller: ESP32, STM32, Arduino
 - Industrial: PLC (Ladder Logic), Pneumatic Systems
-- Software: Proteus, Multisim, Fusion 360, FluidSIM
+- Software: Kicad, Multisim, Fusion 360, FluidSIM
 
 ---
 
-### 🔥 GitHub Stats
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AchmadSendy&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
----
 
 ### 📫 Contact & Social Media
 
