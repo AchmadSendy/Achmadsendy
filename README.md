@@ -1,66 +1,62 @@
-### 👋 Halo, saya Sendy!
+# Hi, I'm Achmad Sendy 👋
 
-Saya adalah mahasiswa **Pendidikan Teknik Mekatronika** di **Universitas Negeri Yogyakarta (UNY)**. Saya antusias di bidang **teknologi, pemrograman, elektronika, pendidikan vokasional**, dan juga aktif membuat konten edukatif.
+**Web Developer & IoT Engineer · Yogyakarta, Indonesia · Open to Remote Work**
 
-Saya aktif di  **organisasi Infinite UNY** (bidang IT). Saya juga membuat konten belajar teknik & coding di media sosial seperti YouTube dan TikTok.
-
----
-
-### ⚙️ Teknologi dan Tools yang Saya Gunakan
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-2C3E50?style=flat)
-
-**🔧 Sistem Kontrol & Otomasi:**
-- Pneumatik (Silinder, Valve, dan Sensor Tekanan)
-- Mikrokontroler (ESP32, Arduino)
-- PLC Dasar (Logika Ladder)
-- Software: Proteus, Multisim, FluidSIM
+![Available](https://img.shields.io/badge/Status-Available%20for%20Freelance-22c55e?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-3b82f6?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-WordPress%20%7C%20Laravel%20%7C%20Flutter-8b5cf6?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-ESP32%20%7C%20STM32%20%7C%20PLC-f59e0b?style=flat-square)
 
 ---
 
-### 🔥 Statistik GitHub
+## About me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=tokyonight)
+I'm a freelance Web Developer and IoT Engineer from Yogyakarta, Indonesia. I build professional websites, landing pages, and industrial automation systems for real clients. Currently pursuing a Mechatronics Engineering degree at Yogyakarta State University (GPA 3.71), while actively freelancing and leading tech projects.
 
----
-
-### 📫 Kontak & Media Sosial
-
-- 🎥 YouTube: [sendyskot](https://youtube.com/@sendyskot)
-- 📱 TikTok: [@sendyskot](https://www.tiktok.com/@sendyskot)
-- 📸 Instagram: [@sendyskot](https://instagram.com/sendyskot)
-- 📧 Email: achmadsendy91@gmail.com
+- 🌐 Open to **remote freelance** projects worldwide
+- 💼 3+ years experience in web development & automation
+- 🔧 Technical Lead at INFINITE UNY (IoT & Web App division)
+- ✍️ Tech content creator at [sendyskot.my.id](https://sendyskot.my.id)
 
 ---
 
-### 🚀 Proyek Unggulan
+## Tech Stack
 
-- **VIPALS** – Kolektor brondolan sawit berbasis IoT
-- **IsyaratPro** – Sarung tangan konversi bahasa isyarat ke suara
-- **WebsiteSendySkot** - Website Pembelajaran online
+**Web & Frontend**
+`WordPress` `Elementor Pro` `HTML/CSS` `JavaScript` `TailwindCSS` `Bootstrap` `React` `Figma`
 
+**Backend & Database**
+`Laravel` `PHP` `Node.js` `MySQL` `Firebase` `REST API`
 
+**IoT & Hardware**
+`ESP32` `Arduino` `STM32` `PLC` `Proteus` `Fusion 360` `Python` `C/C++`
 
+---
 
-### 🐍 Main Ular-Ularan (Snake Game)
-<img src="https://raw.githubusercontent.com/AchmadSendy/AchmadSendy/output/snake.svg" alt="Snake animation" />
+## Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| [Satinese](https://satinese.com) | Fashion e-commerce & brand website for real client | WordPress, WooCommerce, Elementor |
+| AgriSmart | IoT & Flutter smart agriculture monitoring system | Flutter, Firebase, ESP32 |
+| VIPALS | IoT-based palm oil loose fruit collector | IoT, ESP32, Automation |
+| IsyaratPro | Sign language glove — gesture to voice conversion | ESP32, Sensor, Python |
+| Auto Dough Pusher | Industrial bakery automation system | STM32, Pneumatic, Automation |
 
+---
 
-###
+## GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&hide_border=true)
 
+---
 
+## Find Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-achmadsendy-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/achmadsendy)
+[![Blog](https://img.shields.io/badge/Blog-sendyskot.my.id-f97316?style=flat-square&logo=blogger)](https://sendyskot.my.id)
+[![YouTube](https://img.shields.io/badge/YouTube-SendySkot-red?style=flat-square&logo=youtube)](https://youtube.com/@SendySkot)
+[![TikTok](https://img.shields.io/badge/TikTok-sendyskot-black?style=flat-square&logo=tiktok)](https://tiktok.com/@sendyskot.my)
+[![Email](https://img.shields.io/badge/Email-achmadsendy91@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:achmadsendy91@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Hire%20Me-25D366?style=flat-square&logo=whatsapp)](https://wa.me/6285790812139)
