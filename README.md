@@ -38,9 +38,12 @@ I'm active as **Technical Lead at INFINITE UNY** (IT Division) and share tech & 
 
 ### 🔥 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AchmadSendy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&theme=tokyonight&hide_border=true)
+
+
 
 
 ---
