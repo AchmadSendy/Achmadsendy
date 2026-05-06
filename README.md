@@ -1,62 +1,62 @@
-# Hi, I'm Achmad Sendy 👋
+### 👋 Hi, I'm Sendy!
 
-**Web Developer & IoT Engineer · Yogyakarta, Indonesia · Open to Remote Work**
+I'm a **Mechatronics Engineering** student at **Yogyakarta State University (UNY)**, passionate about **technology, programming, electronics, and IoT**. I actively build real-world projects and share tech content on YouTube and TikTok.
 
-![Available](https://img.shields.io/badge/Status-Available%20for%20Freelance-22c55e?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-3b82f6?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-WordPress%20%7C%20Laravel%20%7C%20Flutter-8b5cf6?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-ESP32%20%7C%20STM32%20%7C%20PLC-f59e0b?style=flat-square)
+Currently working as a **Freelance Web Developer & IoT Engineer** — open to remote projects worldwide 🌍
 
----
-
-## About me
-
-I'm a freelance Web Developer and IoT Engineer from Yogyakarta, Indonesia. I build professional websites, landing pages, and industrial automation systems for real clients. Currently pursuing a Mechatronics Engineering degree at Yogyakarta State University (GPA 3.71), while actively freelancing and leading tech projects.
-
-- 🌐 Open to **remote freelance** projects worldwide
-- 💼 3+ years experience in web development & automation
-- 🔧 Technical Lead at INFINITE UNY (IoT & Web App division)
-- ✍️ Tech content creator at [sendyskot.my.id](https://sendyskot.my.id)
+![Available](https://img.shields.io/badge/Status-Available%20for%20Remote%20Work-22c55e?style=flat)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-3b82f6?style=flat)
 
 ---
 
-## Tech Stack
+### ⚙️ Tech Stack & Tools
 
-**Web & Frontend**
-`WordPress` `Elementor Pro` `HTML/CSS` `JavaScript` `TailwindCSS` `Bootstrap` `React` `Figma`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-2C3E50?style=flat)
 
-**Backend & Database**
-`Laravel` `PHP` `Node.js` `MySQL` `Firebase` `REST API`
-
-**IoT & Hardware**
-`ESP32` `Arduino` `STM32` `PLC` `Proteus` `Fusion 360` `Python` `C/C++`
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Satinese](https://satinese.com) | Fashion e-commerce & brand website for real client | WordPress, WooCommerce, Elementor |
-| AgriSmart | IoT & Flutter smart agriculture monitoring system | Flutter, Firebase, ESP32 |
-| VIPALS | IoT-based palm oil loose fruit collector | IoT, ESP32, Automation |
-| IsyaratPro | Sign language glove — gesture to voice conversion | ESP32, Sensor, Python |
-| Auto Dough Pusher | Industrial bakery automation system | STM32, Pneumatic, Automation |
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&hide_border=true)
+**🔧 IoT & Automation:**
+- Microcontroller: ESP32, STM32, Arduino
+- Industrial: PLC (Ladder Logic), Pneumatic Systems
+- Software: Proteus, Multisim, Fusion 360, FluidSIM
 
 ---
 
-## Find Me
+### 🔥 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-achmadsendy-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/achmadsendy)
-[![Blog](https://img.shields.io/badge/Blog-sendyskot.my.id-f97316?style=flat-square&logo=blogger)](https://sendyskot.my.id)
-[![YouTube](https://img.shields.io/badge/YouTube-SendySkot-red?style=flat-square&logo=youtube)](https://youtube.com/@SendySkot)
-[![TikTok](https://img.shields.io/badge/TikTok-sendyskot-black?style=flat-square&logo=tiktok)](https://tiktok.com/@sendyskot.my)
-[![Email](https://img.shields.io/badge/Email-achmadsendy91@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:achmadsendy91@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Hire%20Me-25D366?style=flat-square&logo=whatsapp)](https://wa.me/6285790812139)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact & Social Media
+
+- 🌐 Portfolio: [sendyskot.my.id](https://sendyskot.my.id)
+- 💼 LinkedIn: [achmadsendy](https://linkedin.com/in/achmadsendy)
+- 🎥 YouTube: [SendySkot](https://youtube.com/@SendySkot)
+- 📱 TikTok: [@sendyskot](https://www.tiktok.com/@sendyskot.my)
+- 📸 Instagram: [@sendyskot](https://instagram.com/sendyskot)
+- 📧 Email: achmadsendy91@gmail.com
+- 💬 WhatsApp: [Hire Me](https://wa.me/6285790812139)
+
+---
+
+### 🚀 Featured Projects
+
+- **[Satinese](https://satinese.com)** – Fashion e-commerce website for a real client *(WordPress, WooCommerce, Elementor)*
+- **AgriSmart** – IoT & Flutter-based smart agriculture system *(ESP32, Firebase, Flutter)*
+- **VIPALS** – IoT palm oil loose fruit collector *(ESP32, Automation)*
+- **IsyaratPro** – Sign language gl
