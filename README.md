@@ -38,8 +38,10 @@ I'm active as **Technical Lead at INFINITE UNY** (IT Division) and share tech & 
 
 ### 🔥 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AchmadSendy&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchmadSendy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ---
 
@@ -66,6 +68,6 @@ I'm active as **Technical Lead at INFINITE UNY** (IT Division) and share tech & 
 
 ---
 
-### 🐍 Main Ular-Ularan (Snake Game)
+### 🐍 Snake Game
 <img src="https://raw.githubusercontent.com/AchmadSendy/AchmadSendy/output/snake.svg" alt="Snake animation" />
 ###
