@@ -52,6 +52,7 @@ I'm active as **Technical Lead at INFINITE UNY** (IT Division) and share tech & 
 ### 🚀 Featured Projects
 
 - **[Satinese](https://satinese.com)** – Fashion e-commerce website for a real client *(WordPress, WooCommerce, Elementor)*
+- **[Smart Warehouse IoT System](https://github.com/AchmadSendy/Sendy-iot-ai)** – IoT-based warehouse monitoring & control dashboard *(ESP32, MQTT, Laravel)*
 - **AgriSmart** – IoT & Flutter-based smart agriculture system *(ESP32, Firebase, Flutter)*
 - **VIPALS** – IoT palm oil loose fruit collector *(ESP32, Automation)*
 - **IsyaratPro** – Sign language glove, converts gestures to voice *(ESP32, Python, Sensor)*
